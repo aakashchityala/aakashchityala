@@ -81,4 +81,3 @@ I’m a passionate Computer Science student with a keen interest in software dev
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
