@@ -23,7 +23,6 @@ I’m a passionate Computer Science student with a keen interest in software dev
 
 
 
-- 🔭 Currently building a Flask application with Python and MySQL.  
   
 
 - 🌱  Learning about backend development, data structures, and algorithms.  
